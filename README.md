@@ -13,7 +13,7 @@ https://www.schematik.io/projects/gta-vi-intro-loading-screen-h2wt<img width="30
 
 
 Codigo fuente Esta escrito en C++ (utilizando el framework de Arduino) Ojo: odio C++ y amo C
-
+----------------------------------------------------------------------------------------------------------------------
 #include <Arduino.h>
 #include <M5Cardputer.h>
 
@@ -83,7 +83,7 @@ void loop(){
   }
   delay(8);
 }
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Este código es una broma que simula la pantalla de carga de GTA VI en un dispositivo M5Stack Cardputer.
 Al ejecutarse en esta pequeña computadora de bolsillo basada en ESP32, realiza la siguiente secuencia:
 
