@@ -8,4 +8,5 @@ Los desarrolladores aprenderán a trabajar con las capacidades de pantalla y alt
 transiciones de estado, y crear gráficos personalizados mediante la manipulación del color. El proyecto demuestra técnicas prácticas 
 para crear pantallas de carga interactivas y sistemas de menú en plataformas integradas compactas.
 
+direccion del proyecto subido a:
 https://www.schematik.io/projects/gta-vi-intro-loading-screen-h2wt<img width="3000" height="4000" alt="IMG_20261120_215342" src="https://github.com/user-attachments/assets/44d318eb-82b7-444c-a38b-68fbeacf8f74" />
