@@ -1,4 +1,4 @@
-Pantalla de carga de introducción de GTA VI
+Pantalla de carga de introducción de GTA VI para CARDPUTER ADV
 
 Este proyecto recrea la icónica pantalla de carga de GTA VI en una M5 Cardputer, con barra de progreso animada, gráficos temáticos
 y los característicos efectos de audio del juego. La guía incluye un diagrama de cableado para conectar la Cardputer ADV,
